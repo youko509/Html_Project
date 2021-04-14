@@ -1,8 +1,12 @@
 
 
-.text-center{
+.container .text-center{
     margin-top: 56px;
     margin-bottom: 50px;
+}
+.container .text-center img{
+    height: 166px;
+    width: 166px;
 }
 .text-center img{
     border-radius:15px  ;
