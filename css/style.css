@@ -11,3 +11,7 @@
 .text-center img{
     border-radius:15px  ;
 }
+.container-fluid a img{
+    height: 50px;
+    width: 50px;
+}
