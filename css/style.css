@@ -3,6 +3,7 @@
 .container .text-center{
     margin-top: 56px;
     margin-bottom: 50px;
+    
 }
 .container .text-center img{
     height: 166px;
@@ -14,4 +15,15 @@
 .container-fluid a img{
     height: 50px;
     width: 50px;
+}
+.bg{
+    background-color: rgb(10, 79, 110);
+}
+
+.card-img-top{
+    height: 205px;
+    width: 305px;
+}
+footer .text-center h1{
+    color: cornsilk;
 }
