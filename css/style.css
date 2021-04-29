@@ -32,13 +32,15 @@ footer .text-center h1{
     background-image: url(../image/drap.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-size: 2500px;
+    background-size: 1500px;
     background-color: rgb(255, 255, 255);
     
 }
 .home .div{
     background-color: rgba(31, 48, 48, 0.411);
-    height: 608px;
+    height: 75%;
+    display: flex; 
+   
 }
 .home .btn{
     border-radius: 45px;
@@ -59,4 +61,14 @@ footer .text-center h1{
     width: 506px;
     margin-inline-start: 98px;
     margin-inline-end: 98px;
+}
+#h7{
+    border: none;
+}
+.button{
+    border-radius: 56px;
+    color: rgb(252, 252, 252);
+    background-color: rgba(253, 253, 253, 0.062);
+    border: none;
+    width: 80px;
 }
